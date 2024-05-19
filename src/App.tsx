@@ -11,6 +11,7 @@ function App() {
 
   return (
     <div>
+      test
       {showWizard && (<BaseWizard />)}
 
       <Button
